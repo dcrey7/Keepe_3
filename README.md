@@ -6,7 +6,7 @@ Download repo and then follow steps
 
 
 - <h1>Landing page</h1>
-<img src ="web/page1.PNG">
+<img src ="web/lol.PNG">
 
 - <h1>expanded</h1>
 <img src ="web/page2.PNG">
