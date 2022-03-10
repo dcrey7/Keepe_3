@@ -9,10 +9,10 @@ Download repo and then follow steps
 <img src ="web/page1.PNG">
 
 - <h1>expanded</h1>
-<img src ="web/page3.PNG">
+<img src ="web/page2.PNG">
 
 - <h1>adding</h1>
-<img src ="web/page2.PNG">
+<img src ="web/page3.PNG">
 
 - <h1>deleting</h1>
 <img src ="web/page4.PNG">
